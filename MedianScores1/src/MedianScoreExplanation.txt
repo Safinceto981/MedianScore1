@@ -1,0 +1,15 @@
+﻿
+Making list of integers
+while loop,so we can add n(50000) times integers in our list
+Taking a score from user;
+Push the score to  myArray
+Declaring array of integers and allocating memory for integers that we take from our list of integers . 
+we add all of them.
+Before printing the median score ,we declare variable median and to create method.
+
+Method median:
+1st:
+Taking the number of integers in the array.
+Divide by 2 and check if the remainder is 0(even),take the sum of the2 middle scores and devide by 2.
+if the remainer is 1 -the middle one. :)
+ 

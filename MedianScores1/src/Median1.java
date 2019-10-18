@@ -12,7 +12,7 @@ public class Median1 {
 		Scanner s = new Scanner(System.in);
 		List<Integer> myArray = new ArrayList<Integer>();
 		 int p = 0;
-		 while(p<5000) {
+		 while(p<50000) {
 	    System.out.println("Enter the score that is to be added:");
 		 int score = s.nextInt();
 		 myArray.add(score);
